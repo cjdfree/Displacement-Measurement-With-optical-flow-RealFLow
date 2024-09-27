@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# README
-
 ## Introduction
 - 基于**[RealFlow](https://github.com/megvii-research/RealFlow)**生成光流数据集，实现对结构位移测量数据集的制作，并微调训练结果。
 - 原光流基准模型基于**[RAFT](https://github.com/princeton-vl/RAFT)**。
@@ -58,6 +55,4 @@
 - `5.30_experiment`
 - `5.29_experiment`
 - `5.20_experiment`
-=======
-# Displacement-Measurement-With-optical-flow-RealFLow
->>>>>>> 7636da3a0fb4ada6190fe2b503c76e42bc5530a1
+
